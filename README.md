@@ -1,3 +1,5 @@
+> **IMPORTANT: the group and repository has moved to the W3C group github repo at https://github.com/w3c/dpv/ This repository is kept for archival purposes and will be removed.**
+
 # DPV NACE Vocabulary
 
 This vocabulary provides a RDFS interpretation of NACE codes for use with the [Data Privacy Vocabulary (DPV)](https://w3.org/ns/dpv) vocabulary.
